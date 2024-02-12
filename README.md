@@ -1,1 +1,1 @@
-This is a basic api create using golang
+This is a basic api created using golang
